@@ -29,12 +29,4 @@ The **IEEE Photonics Society HSTU Student Branch Chapter** is a vibrant communit
 
 We are always open to connecting with students, professionals, and institutions working in photonics, optics, and beyond.  
 Email us at: **info.ieeepshstusbc@gmail.com**
-
----
-
-<div align="center">
-
-Made by the IEEE Photonics Society – HSTU Team  
-© 2025 IEEE Photonics HSTU | All Rights Reserved
-
 </div>
