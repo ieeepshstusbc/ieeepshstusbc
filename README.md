@@ -25,18 +25,6 @@ The **IEEE Photonics Society HSTU Student Branch Chapter** is a vibrant communit
 
 ---
 
-## Interim Committee
-
-| Role | Name |
-|------|------|
-| Advisor | Dr. Nasrin Sulatana |
-| Chair | MD Mujtuba Rafid |
-| Secretary | Chanchol Kumar |
-
-See the full committee → [Meet the Team](https://ieeepshstusbc.github.io/#committee)
-
----
-
 ## Let's Collaborate!
 
 We are always open to connecting with students, professionals, and institutions working in photonics, optics, and beyond.  
